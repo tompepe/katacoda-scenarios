@@ -1,1 +1,1 @@
-[ -n "$test" ] && echo hi
+[ -n "$test" ] && echo "done"
