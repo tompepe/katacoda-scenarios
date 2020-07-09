@@ -1,1 +1,1 @@
-[ ! -z "$test" ] && echo "done"
+[ -f /home/scrapbook/tutorial/.git ] && echo "done"

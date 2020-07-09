@@ -21,9 +21,7 @@
       "text": "finish.md"
     }
   },
-  "environment": {
-    "hideintro": true,
-    "hidefinish": true,    
+  "environment": {    
     "uilayout": "editor-terminal"
   },
   "backend": {

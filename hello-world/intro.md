@@ -1,2 +1,4 @@
 Welcome to your first Katacoda Scenario!
-so newer
+so newest
+more scenarios here: https://www.katacoda.com/tom_pepe/
+github: https://github.com/tompepe/katacoda-scenarios
