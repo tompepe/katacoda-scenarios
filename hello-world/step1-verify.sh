@@ -1,1 +1,1 @@
-[[ "$PWD" = /home/scrapbook/tutorial ]] && echo "done"
+[ -f /home/scrapbook/tutorial/test ] && echo "done"
