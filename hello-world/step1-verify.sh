@@ -1,1 +1,1 @@
-printenv test
+printenv test && echo "done"
