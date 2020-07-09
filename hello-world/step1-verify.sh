@@ -1,1 +1,1 @@
-[ -n "$test" ] && echo "done"
+[[ "$PWD" = /home/scrapbook/tutorial ]] && echo "done"
