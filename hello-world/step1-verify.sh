@@ -1,1 +1,1 @@
-[ -f /home/scrapbook/tutorial/.git ] && echo "done"
+[ -n "$test" ] && echo hi
