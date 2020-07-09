@@ -1,1 +1,1 @@
-printenv test && echo "done"
+[ ! -z "$test" ]
