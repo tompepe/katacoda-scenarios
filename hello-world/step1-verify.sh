@@ -1,1 +1,1 @@
-[ ! -z "$test" ]
+[ ! -z "$test" ] && echo "done"
