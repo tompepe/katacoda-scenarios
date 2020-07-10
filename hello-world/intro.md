@@ -1,7 +1,5 @@
 Trying React out...
 ---------------------------------------
-* todo: fix whatever's wrong with running the tests by swallowing all output
-* todo: uncomment the 2 lines in step 1 verify once I figure out what's wrong with it
 * todo: make step 1 just wait for the install to complete
 ---------------------------------------
 
