@@ -25,6 +25,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "georgeyord/reactjs-tutorial"
+    "imageid": "jitheshpk/reactjs-app"
   }
 }
