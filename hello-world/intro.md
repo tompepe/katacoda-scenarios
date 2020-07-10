@@ -1,6 +1,6 @@
 Trying React out...
 ---------------------------------------
-todo: uncomment out the verify once I figure out what's wrong with it
+todo: uncomment the 5 lines in step 1 verify once I figure out what's wrong with it
 todo: make step 1 just wait for the install to complete
 
 * i think the verify shell is run against the docker container not the image therefore local variables, paths, etc cannot be used to verify.  
