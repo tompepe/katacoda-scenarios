@@ -13,8 +13,9 @@
         "title": "Step 2 - Show Answers",
         "text": "step2.md"
     }],
-    "intro": {
-      "text": "intro.md",
+		"intro": {
+			"courseData": "env-init.sh",
+			"text": "intro.md",
       "credits": ""
     },
     "finish": {

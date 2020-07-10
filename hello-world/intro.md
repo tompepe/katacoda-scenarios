@@ -1,4 +1,5 @@
 Trying React out...
+---------------------------------------
 
 * i think the verify shell is run against the docker container not the image therefore local variables, paths, etc cannot be used to verify.  
 * todo: try a different docker image... an example react application.  to do that i would need to follow these instructions: https://www.katacoda.community/custom-environment.html#base-images
