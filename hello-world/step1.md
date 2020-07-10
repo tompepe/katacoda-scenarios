@@ -2,8 +2,11 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
+This is an _example_ of a simple react app 
 
-`echo 'Hello World'`{{execute}}
+`cd my-app'`{{execute}}
 
-1. you must create the following file /home/scrapbook/tutorial/test
+
+Make the tests fail 
+1. open my-app/src/App.test.js 
+2. change the 'renders learn react link' test to verify that the page says 'I can learn react'
